@@ -2,7 +2,9 @@
 
 
 
-An automated code review tool that fetches a GitHub pull request's diff, runs static analysis with flake8, and generates an AI-powered code review using the Anthropic API — then posts it as a comment on the PR.
+An automated code review tool that fetches a GitHub pull request's diff, runs static analysis with flake8, and generates an AI-powered code review using the Anthropic API — then posts it as a comment on the PR. 
+
+*this repo includes a deliberately vulnerable test file used to demonstrate the review bot's detection*
 
 
 
